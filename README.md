@@ -5,7 +5,6 @@
 
 [![starfd's Blog](https://img.shields.io/badge/-starfd's%20Blog-303030?style=flat-square&logo=Bloglovin&logoColor=ffffff)](https://starfd.xyz)
 [![Email](https://img.shields.io/badge/-i@starfd.xyz-ea4335?style=flat-square&logo=Mail.Ru)](mailto:i@starfd.xyz)
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstarfd%2Fstarfd&count_bg=%2344CC11&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=true)
 
 ![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=Apple)
 ![Windows 10](https://img.shields.io/badge/-Windows%2010-0078d6?style=flat-square&logo=Windows)
